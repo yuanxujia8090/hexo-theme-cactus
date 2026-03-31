@@ -15,6 +15,7 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
+  Claude-Code: /claude-code-source/
   about: /about/
   articles: /archives/
 
