@@ -55,7 +55,7 @@ A responsive, clean and simple [Hexo](http://hexo.io) theme for a personal websi
 1. In the `root` directory:
 
     ```sh
-    $ git clone https://github.com/probberechts/hexo-theme-cactus.git themes/cactus
+    $ git clone https://github.com/yuanxujia8090/hexo-theme-cactus.git themes/cactus
     ```
 
 2. Change the `theme` property in the `_config.yml` file.
